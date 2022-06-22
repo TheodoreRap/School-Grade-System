@@ -1,4 +1,4 @@
-# School-Grade-System
+# School Grade System
 
 Student data management program, name, surname, telephone number. 
 Each student attends 5 courses with the corresponding grades. 
